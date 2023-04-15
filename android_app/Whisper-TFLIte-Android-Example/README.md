@@ -2,3 +2,6 @@
 
 This repo is an example that transcribe audio using whisper.tflite model in Android projects
  
+```
+./gradlew  :app:assembleRelease
+```
